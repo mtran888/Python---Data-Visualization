@@ -1,5 +1,5 @@
 # Python - Data-Visualization
-In this project, I explored the Sephora skincare set. I used the Python's Panda library for data cleansing and preparation. I used matplotlib and seaborn to visualize the data.
+In this project, I explored the Sephora skincare dataset. I used the Python's Panda library for data cleansing and preparation. I used matplotlib and seaborn to visualize the data.
 
   * Plot 1: Product count and median price per category.
   * Plot 2: Correlation matrix among several data points.
